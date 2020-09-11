@@ -27,9 +27,9 @@ Using data from 3 different endpoints (posts, users, properties), build an appli
 
 4. Dates should all have the same format.
 
-5. Any social network icon pack can be used. 
+5. Any social network icon pack can be used. There should be a default icon when no network is present.
 
-6. There is a social network that has two different names, but should be treated as one. 
+6. There is one social network that has two different names, but should be treated as one. 
 
 7. Make sure post content is sanitized.
 
@@ -41,7 +41,10 @@ Using data from 3 different endpoints (posts, users, properties), build an appli
 
 1. Must use react with hooks
 2. Must use react-redux with hooks
-3. Must use the fetch API
+3. Must git 
+4. Must use the fetch API
+5. Clean and readable code is highly valued
+5. If create-react-app is used, make sure to clean up and remove anything that's not used.
 
 
 
