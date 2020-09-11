@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Using data from 3 different endpoints (posts, users, properties), build an application that displays the post data as shown in the next images, use them as a guideline. Create a project in github and make sure the app can be started locally for review. 
+Using data from 3 different endpoints (posts, users, properties), build an application that displays the post data as shown in the next images, use them as a guideline. Create a project in github and make sure the app can be started locally for review. After completing everything, record a screencast with a walkthrough over the application and the codebase. Be meticulous about this. 
 
 ### Endpoints:
 - https://bcv-fe-interview-api.azapata.io/api/posts
