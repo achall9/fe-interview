@@ -15,6 +15,7 @@ Using data from 3 different endpoints (posts, users, properties), build an appli
 #### Error Screen
 ![Alt text](images/error.png?raw=true "Error")
 
+#### Loading State
 ![Alt text](images/loading.png?raw=true "Loading")
 
 ### Product Considerations
