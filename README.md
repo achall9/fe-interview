@@ -38,6 +38,8 @@ Using data from 3 different endpoints (posts, users, properties), build an appli
 
 9. @mentions should be bold and have a light colored background.
 
+10. The application should look decent on mobile devices.
+
 ### Technical Considerations
 
 1. Must use react with hooks
